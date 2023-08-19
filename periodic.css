@@ -1,0 +1,11 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  ;}
+table {width: 100%;}
+th:nth-child(even),td:nth-child(even) {
+    background-color: lightgrey;
+  }
+  th, td {
+    border-style: dashed;
+  }
