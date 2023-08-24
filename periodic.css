@@ -4,8 +4,8 @@ table, th, td {
   ;}
 table {width: 100%;}
 th:nth-child(even),td:nth-child(even) {
-    background-color: lightgrey;
+    background-color: white;
   }
   th, td {
-    border-style: dashed;
+    border-style: none;
   }
